@@ -23,3 +23,4 @@ numbers = [
     "zero", "one", "two", "three"
     ["0", "1", "2", '3']]
 print (numbers[2], [1])
+#the function str finds the number of words in a list
