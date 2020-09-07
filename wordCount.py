@@ -1,3 +1,3 @@
-exampleText = "the split function turns a string into a list"
+exampleText = input("please enter a string:\n")
 len = len(exampleText.split())
-print("the number words in the sentence is" + str(len))
+print("the number words in the sentence is " + str(len))
