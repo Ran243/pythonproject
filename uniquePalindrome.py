@@ -11,6 +11,9 @@ def unique(y):
         else:
             continue
 
+file_content = "akdfadskj snns racecar ada"
 
-lst = ["1" , "22", "1", "233", "44344", "34343", "22"]
-unique(lst)
+x = file_content.split()
+unique(x)
+
+
